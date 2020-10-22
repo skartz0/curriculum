@@ -1,0 +1,2 @@
+# curriculum
+Information Visualization project
