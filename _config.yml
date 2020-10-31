@@ -34,6 +34,11 @@ theme: minima
 plugins:
   - jekyll-feed
 
+backend:
+  name: github
+  repo: skartz0/curriculum # your GitHub username and repository name, separated by a slash
+  branch: master # optional, default value is "master"
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
