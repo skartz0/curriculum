@@ -7,8 +7,6 @@ repository: Git repository where your resume will be hosted, only required if yo
 
 description: >- # this means to ignore newlines until "baseurl:"
   I enjoy learning new technologies. Learning new things every day is my masterplan
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://skarmintzos.com/" # the base hostname & protocol for your site, e.g. http://example.com
 name: Alexandros Skarmintzos
 title: Computer engineer
 email: a.skarmintzos@gmail.com
