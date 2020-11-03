@@ -1,38 +1,85 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-#
-# If you need help with YAML syntax, here are some quick references for you: 
-# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
-# https://learnxinyminutes.com/docs/yaml/
-#
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
+# Site
+repository: Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
+# favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
-title: Your awesome title
-email: your-email@example.com
+# Personal info
+
+
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://alexcv.netlify.app/" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+  I enjoy learning new technologies. Learning new things every day is my masterplan
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://skarmintzos.com" # the base hostname & protocol for your site, e.g. http://example.com
+name: Alexandros Skarmintzos
+title: Computer engineer
+email: a.skarmintzos@gmail.com
+phone: 6949339175
+website: alex.skarmintzos.com
+
+# Dark Mode (true/false/never)
+darkmode: true
+
+# Social links
+github_username:  skartz0
+facebook_username: skarmintzo
+instagram_username: skartz
+linkedin_username: alex-skarmintzos
+
+# Additional icon links
+
+# - title: another link
+#   icon: font awesome brand icon name (eg. fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
+#   url: Link url (eg. https://google.com)
+
+# Google Analytics and Tag Manager
+# Using more than one of these may cause issues with reporting
+# gtm: "GTM-0000000"
+# gtag: "UA-00000000-0"
+# google_analytics: "UA-00000000-0"
+
+# About Section
+# about_title: About Me (Use this to override about section title)
+about_profile_image: images/unnamed.jpg
+about_content: | # this will include new lines to allow paragraphs
+  I enjoy learning new technologies. Learning new things every day is my masterplan.
+# Projects Section
+# projects_title: Projects #(Use this to override about projects section title)
+
+# Experience Section
+# experience_title: Experience #(Use this to override about experience section title)
+
+# Education Section
+# education_title: Education #(Use this to override about education section title)
+
+# More Section
+# more_title: A Little More About Me #(Use this to override about more section title)
+more_content: | # this will include new lines to allow paragraphs
+  My everyday rutine involves cooking, nobody knows it but I love food. I'm also a crew member of a sailing team and I can ride a snowboard for more than one minute straight.
+# Footer
+footer_show_references: true
 
 # Build settings
-theme: minima
+# theme: modern-resume-theme (Use this is you are hosting your resume yourself)
+# remote_theme: sproogen/modern-resume-theme (Use this if you are hosting your resume on GitHub)
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
 plugins:
-  - jekyll-feed
+ - jekyll-seo-tag
+
+exclude : [
+  "Gemfile",
+  "Gemfile.lock",
+  "node_modules",
+  "vendor/bundle/",
+  "vendor/cache/",
+  "vendor/gems/",
+  "vendor/ruby/",
+  "lib/",
+  "scripts/",
+  "docker-compose.yml",
+  ]
 
 backend:
   name: github
@@ -58,3 +105,10 @@ backend:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+# Settings
+mainfont: Hoefler Text
+fontsize: 10pt
+lang: en-GB
+geometry: a4paper, left=35mm, right=35mm, top=51mm, bottom=17mm
+---
