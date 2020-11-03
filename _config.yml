@@ -3,15 +3,13 @@ repository: skartz0/curriculum
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Personal info
-
-
-description: >- # this means to ignore newlines until "baseurl:"
-  I enjoy learning new technologies. Learning new things every day is my masterplan
 name: Alexandros Skarmintzos
 title: Computer engineer
 email: a.skarmintzos@gmail.com
 phone: 6949339175
 website: alex.skarmintzos.com
+description: >- # this means to ignore newlines until "baseurl:"
+  I enjoy learning new technologies. Learning new things every day is my plan
 
 # Dark Mode (true/false/never)
 darkmode: true
@@ -23,7 +21,6 @@ instagram_username: skartz
 linkedin_username: alex-skarmintzos
 
 # Additional icon links
-
 # - title: another link
 #   icon: font awesome brand icon name (eg. fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
 #   url: Link url (eg. https://google.com)
