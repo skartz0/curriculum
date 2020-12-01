@@ -2,33 +2,33 @@
   company: Rascal
   link: rascal.gr
   job_title: Web Developer
-  dates: Aug 2020 – Present
+  dates: Aug 2020 – Oct 2020
   quote: 
   description: | # this will include new lines to allow paragraphs
-    Remote IT support for ERP applications. MYSQL DBs, Networking Communication with end customer
+    Custom Themed Wordpress CMS Websites, Web Advertorial
 
 - layout: left
   company: WiseTech.itc
   link: wiseTech.itc
-  job_title: junior web devloper
+  job_title: Junior Web Devloper
   dates: Nov 2019 – Aug 2020
   quote: 
   description: | # this will include new lines to allow paragraphs
-    Adobe XD for design. HTML, css ,js ,Vue.js, Razor for development.
+    Adobe XD for wireframing. HTML, css ,js ,Vue.js, Razor for development.
 
 - layout: left
   company: Data Communication
-  link: boringcompany.com
-  job_title: Senior Network System Administrator
+  link: datacommunication.gr
+  job_title: System Enigeer
   dates: Mar 2018 – Mar 2019
   quote: 
   description: | # this will include new lines to allow paragraphs
-    Remote IT support for ERP applications. MYSQL DBs, Networking Communication with end customer
+    Remote IT support for ERP applications. MYSQL DBs, Networking Communication with end business
 
 - layout: left
   company: SingularLogic
-  link: boringcompany.com
-  job_title: Senior Network System Administrator
+  link: portal.singularlogic.eu/en
+  job_title: IT Support Enigneer
   dates: Mar 2017 – Feb 2018
   quote: 
   description: | # this will include new lines to allow paragraphs
