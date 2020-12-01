@@ -4,8 +4,7 @@
   job_title: Web Developer
   dates: Aug 2020 – Oct 2020
   quote: 
-  description: | # this will include new lines to allow paragraphs
-    Custom Themed Wordpress CMS Websites, Web Advertorial
+  description: Custom Themed Wordpress CMS Websites, Web Advertorial
 
 - layout: left
   company: WiseTech.itc
@@ -13,8 +12,7 @@
   job_title: Junior Web Devloper
   dates: Nov 2019 – Aug 2020
   quote: 
-  description: | # this will include new lines to allow paragraphs
-    Adobe XD for wireframing. HTML, css ,js ,Vue.js, Razor for development.
+  description: Adobe XD for wireframing. HTML, css ,js ,Vue.js, Razor for development.
 
 - layout: left
   company: Data Communication
@@ -22,8 +20,7 @@
   job_title: System Enigeer
   dates: Mar 2018 – Mar 2019
   quote: 
-  description: | # this will include new lines to allow paragraphs
-    Remote IT support for ERP applications. MYSQL DBs, Networking Communication with end business
+  description: Remote IT support for ERP applications. MYSQL DBs, Networking Communication with end business
 
 - layout: left
   company: SingularLogic
@@ -31,8 +28,7 @@
   job_title: IT Support Enigneer
   dates: Mar 2017 – Feb 2018
   quote: 
-  description: | # this will include new lines to allow paragraphs
-    B2B IT Systems, Maintenance & On-sight Rollout
+  description: B2B IT Systems, Maintenance & On-sight Rollout
 
 - layout: left
   company: Motor Oil
@@ -40,5 +36,4 @@
   job_title: IT Intern
   dates: Aug 2014 – Sep 2014
   quote: 
-  description: | # this will include new lines to allow paragraphs
-    Hardware, Software, Network maintenance skills by internal tasks
+  description:  Hardware, Software, Network maintenance skills by internal tasks
