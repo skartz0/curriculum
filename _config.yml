@@ -35,9 +35,9 @@ linkedin_username: alex-skarmintzos
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: images/unnamed.jpg
+about_profile_image: images/download.png
 about_content: | # this will include new lines to allow paragraphs
-  I enjoy learning new technologies. Learning new things every day is my masterplan.
+  Can support a position as front end developer. Bachelor's degree in Computer engineering, currently on a subcategory study in Human Computer Interaction
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
 
@@ -49,8 +49,8 @@ about_content: | # this will include new lines to allow paragraphs
 
 # More Section
 # more_title: A Little More About Me #(Use this to override about more section title)
-more_content: | # this will include new lines to allow paragraphs
-  My everyday rutine involves cooking, nobody knows it but I love food. I'm also a crew member of a sailing team and I can ride a snowboard for more than one minute straight.
+#more_content: | # this will include new lines to allow paragraphs
+# My everyday rutine involves cooking, nobody knows it but I love food. I'm also a crew member of a sailing team and I can ride a snowboard for more than one minute straight.
 # Footer
 footer_show_references: true
 
