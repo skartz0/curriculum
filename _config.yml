@@ -34,7 +34,7 @@ linkedin_username: alex-skarmintzos
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: images/download.png
+# about_profile_image: images/download.png
 about_content: | # this will include new lines to allow paragraphs
   Front end development wraps most of my skills. Subcategory study in Human computer interaction.
 # Projects Section
