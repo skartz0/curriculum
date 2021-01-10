@@ -1,6 +1,7 @@
 - layout: left
 
   name: University of Patras
+  link: wiseTech.itc
   dates: Ongoing
   qualification: Masters in Human-Computer Interaction
 
@@ -8,6 +9,7 @@
 - layout: left
 
   name: University of Peloponnese
+  link: wiseTech.itc
   dates: 2019
   qualification: Computer & Informatics Engineering
 
