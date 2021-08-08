@@ -1,4 +1,12 @@
 - layout: left
+  company: HackTheBox
+  link: https://hackthebox.eu/
+  job_title: Web Developer
+  dates: Mar 2021 – Today
+  quote: 
+  description: Giving a hand to create the best Hacking Playground
+
+- layout: left
   company: Rascal
   link: rascal.gr
   job_title: Web Developer
@@ -9,7 +17,7 @@
 - layout: left
   company: WiseTech.itc
   link: wiseTech.itc
-  job_title: Junior Web Devloper
+  job_title: Junior Web Developer
   dates: Nov 2019 – Aug 2020
   quote: 
   description: Adobe XD for wireframing. HTML, css ,js ,Vue.js, Razor for development.
@@ -17,7 +25,7 @@
 - layout: left
   company: Data Communication
   link: datacommunication.gr
-  job_title: System Enigeer
+  job_title: System Engineer
   dates: Mar 2018 – Mar 2019
   quote: 
   description: Remote IT support for ERP applications. MYSQL DBs, Networking Communication with end business
@@ -25,7 +33,7 @@
 - layout: left
   company: SingularLogic
   link: portal.singularlogic.eu/en
-  job_title: IT Support Enigneer
+  job_title: IT Support Engineer
   dates: Mar 2017 – Feb 2018
   quote: 
   description: B2B IT Systems, Maintenance & On-sight Rollout
